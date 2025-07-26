@@ -6,7 +6,7 @@
 </p>
 
 - 🔭 I’m currently working on improving my full-stack skills  
-- 🌐 Check out my portfolio: [https://portfolio-rosy-ten-45.vercel.app/](https://portfolio-rosy-ten-45.vercel.app/)  
+- 🌐 Check out my portfolio: [https://jawwad-portfolio-45.vercel.app/](https://jawwad-portfolio-45.vercel.app/)  
 - 📫 How to reach me: **jawwadsiddique0987@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
